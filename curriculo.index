@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="./style.css">
+  <title> curriculo online </title>
+</head>
+<body>
+ <header> 
+   <h1>Curriculo online
+   <p><me> João<me> </h1>
+ </header>
+
+ <div class="sub">
+   <h1> Informações </h1>
+ </div>
+ <div class="base1"> 
+   <div class="base2">
+   <ul>
+     <li class=list>
+       <h1 class="list1">Nome</h1>
+     </li>
+     <p class="line"> João Paulo de Souza Santos  
+   </ul>
+     <ul>
+     <li class=list>
+       <h1 class="list2">Nasceu em</h1>
+     </li>
+     <p class="line2">11/11/2003
+   </ul>
+   </div>
+   <div class="base2">
+        <ul>
+     <li class=list>
+       <h1 class="list3">Reside em</h1>
+     </li>
+     <p class="line"> Pouso Alegre-MG
+   </ul>
+     <ul>
+     <li class=list>
+       <h1 class="list4">Contatos</h1>
+     </li>
+     <p class="line3">E-mail: joaopsouzas03@gmail.com
+     <p class="line3">Celular: (35) 9 9871-9948
+   </ul>
+   </div>
+ </div> 
+  <div class="sub">
+   <h1> Experiência </h1>
+ </div>
+ <div class="base1"> 
+   <div class="base2">
+   <ul>
+     <li class=list>
+       <h1 class="list1">hardware e informatica</h1>
+     </li>
+     <p class="line">Microcamp
+     <p class="line"> 2017-2018
+   </ul>
+     <ul>
+     <li class=list>
+       <h1 class="list2">auxiliar administrativo</h1>
+     </li>
+     <p class="line3"> Senac (teórico 480h)
+     <p class="line3"> Magsul (pratico 520h)
+   </ul>
+   </div>
+   <div class="base2">
+        <ul>
+     <li class=list>
+       <h1 class="list3">Cursando</h1>
+     </li>
+     <p class="line">Geraldina Tosta
+       <p class="line"> 3° Ano ensino médio
+   </ul>
+     <ul>
+     <li class=list>
+       <h1 class="list4">Adicionais</h1>
+     </li>
+     <p class="line2"> Basica em programação
+     <p class="line2"> Basica em Excel, World, Power Point e emails
+     <p class="line2"> Facilidade de aprendizagem e comunicação 
+     <p class="line2"> proatividade e dedicação
+     <p class="line2"> Facilidade de comunicação e disposição para tarefas em equipe  
+   </div>
+ </div> 
+ <div class="sub">
+   <h1> Sobre mim </h1>
+ </div>
+ <div class="base1"> 
+   <div class="base2">
+   <ul>
+     <li class=list>
+     </li>
+     <p class="line">  Fazer parte desta conceituada empresa, onde eu possa crescer profissionalmente de forma produtiva para o grande desenvolvimento desta organização.
+   </ul>
+   </div>
+ </div> 
+
+ 
+</body>
+</html>
